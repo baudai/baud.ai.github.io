@@ -23,7 +23,7 @@ File: Core
    Common
 ============= */
 body {
-  background: #ebeff2;
+  background: #fefdff;
   font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin: 0;
   overflow-x: hidden;
@@ -32,7 +32,7 @@ body {
 html {
   position: relative;
   min-height: 100%;
-  background: #ebeff2;
+  background: #fefdff;
 }
 h1,
 h2,
